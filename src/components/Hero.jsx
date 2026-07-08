@@ -14,7 +14,7 @@ function Hero() {
   return (
     <section
       id="home"
-      className="min-h-screen flex items-center bg-gradient-to-r from-slate-900 via-gray-900 to-black text-white"
+      className="min-h-screen flex items-center bg-gradient-to-r from-slate-900 via-gray-900 to-black text-white  pt-24 mt-20"
     >
       <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-10 items-center">
 
